@@ -121,5 +121,5 @@ class Scraper:
                     print(f'Image {i} saved')
                     i = 0
             except Exception as e:
-                print('error: ', e)
+                print('error: ', e, 'on image: ', i, 'for query: ', q)
                 pass
