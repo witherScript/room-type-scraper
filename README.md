@@ -59,4 +59,3 @@ Feel free to contribute to this project to make it more robust and feature-rich.
 
 ---
 
-This README aims to provide a comprehensive guide to understanding and using the `Scraper` class, highlighting its improvements over Archit Sharma's original procedural code and its benefits in terms of object-oriented design.
